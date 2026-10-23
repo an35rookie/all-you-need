@@ -1,3 +1,3 @@
 # All you need
 
-Just run `get-lg-stock-documents` to get all the documents.
+Just execute `get-lg-stock-documents`(windows execution file) to get all LG stock documents.
